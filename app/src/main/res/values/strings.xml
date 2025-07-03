@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RandomUserClient</string>
+    <string name="app_header">R.UserClient</string>
+    <string name="app_version">v1.0.0</string>
+    <string name="retry_api_call">Retry</string>
+    <string name="email">Email:</string>
+    <string name="call">Call:</string>
+    <string name="users_photo_description">User photo</string>
+</resources>
