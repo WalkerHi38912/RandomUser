@@ -82,7 +82,8 @@ fun UserCard(
                     text = userName,
                     style = MaterialTheme.typography.headlineSmall.copy(fontSize = fontSize),
                     color = Color.White,
-                    maxLines = 2
+                    maxLines = 2,
+                    textAlign = TextAlign.Center
                 )
             }
         }
