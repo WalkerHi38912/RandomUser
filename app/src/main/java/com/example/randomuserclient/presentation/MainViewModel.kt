@@ -1,4 +1,4 @@
-package com.example.randomuserclient.ui
+package com.example.randomuserclient.presentation
 
 import android.util.Log
 import androidx.compose.runtime.mutableStateOf
