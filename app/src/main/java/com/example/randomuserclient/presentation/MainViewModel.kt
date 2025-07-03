@@ -36,7 +36,6 @@ class MainViewModel @Inject constructor(
                 errorMessage.value = null
             } catch (e: Exception){
                 errorMessage.value = "Check Network Connection!"
-                Log.e("Loadusers", "$e")
             } finally {
                 isLoading.value = false
             }
